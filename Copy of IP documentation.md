@@ -1,4 +1,4 @@
-﻿#**Polarr**
+**Polarr**
 
 #**A Student Data Management System**
 

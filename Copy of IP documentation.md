@@ -1,6 +1,6 @@
 **Polarr**
 
-#**A Student Data Management System**
+**A Student Data Management System**
 
 ![](pictures/Aspose.Words.8fe87ddd-a5ca-4076-9ab8-12e4b1072830.001.jpeg)
 
